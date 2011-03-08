@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ABCBank\TestABCBank\TestABCBank\bin\Debug\TestABCBank.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ABCBank\TestABCBank\TestABCBank\bin\Debug\TestABCBank.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ABCBank\TestABCBank\TestABCBank\bin\Debug\ABCBank.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ABCBank\TestABCBank\TestABCBank\bin\Debug\ABCBank.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ABCBank\TestABCBank\TestABCBank\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ABCBank\TestABCBank\TestABCBank\obj\Debug\TestABCBank.dll
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ABCBank\TestABCBank\TestABCBank\obj\Debug\TestABCBank.pdb

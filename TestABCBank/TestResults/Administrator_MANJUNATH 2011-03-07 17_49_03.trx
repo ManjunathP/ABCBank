@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e8a999d5-27e5-4c7e-be92-92ec3c73aa2a" name="Administrator@MANJUNATH 2011-03-07 17:49:03" runUser="MANJUNATH\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="45e0df11-2752-4fbe-8a5c-feebb6b64842">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_MANJUNATH 2011-03-07 17_49_03">
+      <DeploymentItem filename="C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ABCBank\ABCBank\bin\Debug\ABCBank.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-03-07T17:49:03.1250000+05:30" queuing="2011-03-07T17:49:03.1562500+05:30" start="2011-03-07T17:49:03.1718750+05:30" finish="2011-03-07T17:49:03.6718750+05:30" />
+  <ResultSummary outcome="Failed">
+    <Counters total="7" executed="7" passed="6" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestUserShouldBeAbleToDepositAmounttoAccount" storage="c:\documents and settings\administrator\my documents\visual studio 2010\projects\abcbank\testabcbank\testabcbank\bin\debug\testabcbank.dll" id="d6226520-4bdb-a246-f9a4-888a484bf2c8">
+      <Execution id="8547c374-0fe4-4b7b-b2a7-6bc8f4302510" />
+      <TestMethod codeBase="C:/Documents and Settings/Administrator/My Documents/Visual Studio 2010/Projects/ABCBank/TestABCBank/TestABCBank/bin/Debug/TestABCBank.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestABCBank.TestABCBank, TestABCBank, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestUserShouldBeAbleToDepositAmounttoAccount" />
+    </UnitTest>
+    <UnitTest name="TestShouldBeAbleToOpenAccountForAUser" storage="c:\documents and settings\administrator\my documents\visual studio 2010\projects\abcbank\testabcbank\testabcbank\bin\debug\testabcbank.dll" id="d3e09995-aead-78fe-6fa0-62b939aa76e3">
+      <Execution id="48467670-db7e-487c-9bb2-c828d9cd6834" />
+      <TestMethod codeBase="C:/Documents and Settings/Administrator/My Documents/Visual Studio 2010/Projects/ABCBank/TestABCBank/TestABCBank/bin/Debug/TestABCBank.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestABCBank.TestABCBank, TestABCBank, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestShouldBeAbleToOpenAccountForAUser" />
+    </UnitTest>
+    <UnitTest name="TestShouldBeAbleToOpenCurrentAccountForAUser" storage="c:\documents and settings\administrator\my documents\visual studio 2010\projects\abcbank\testabcbank\testabcbank\bin\debug\testabcbank.dll" id="d7e26e5b-78cf-862a-100a-09453089ead9">
+      <Execution id="17cd4478-e93d-4452-a507-dbea468573f6" />
+      <TestMethod codeBase="C:/Documents and Settings/Administrator/My Documents/Visual Studio 2010/Projects/ABCBank/TestABCBank/TestABCBank/bin/Debug/TestABCBank.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestABCBank.TestABCBank, TestABCBank, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestShouldBeAbleToOpenCurrentAccountForAUser" />
+    </UnitTest>
+    <UnitTest name="TestShouldBeAbleToOpenSavingsAccountForAUser" storage="c:\documents and settings\administrator\my documents\visual studio 2010\projects\abcbank\testabcbank\testabcbank\bin\debug\testabcbank.dll" id="17f50587-19d8-dde3-bd5b-cb76306ace24">
+      <Execution id="e0ae65fd-3a17-42de-9da6-e1f33d4c366c" />
+      <TestMethod codeBase="C:/Documents and Settings/Administrator/My Documents/Visual Studio 2010/Projects/ABCBank/TestABCBank/TestABCBank/bin/Debug/TestABCBank.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestABCBank.TestABCBank, TestABCBank, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestShouldBeAbleToOpenSavingsAccountForAUser" />
+    </UnitTest>
+    <UnitTest name="TestToCheckIftwoAccountsGenerateDifferentAccountNumber" storage="c:\documents and settings\administrator\my documents\visual studio 2010\projects\abcbank\testabcbank\testabcbank\bin\debug\testabcbank.dll" id="b91fa616-0ff2-9a17-40a2-80c6140b954d">
+      <Execution id="b6fa0862-8ebb-44e6-8385-e800db2ec633" />
+      <TestMethod codeBase="C:/Documents and Settings/Administrator/My Documents/Visual Studio 2010/Projects/ABCBank/TestABCBank/TestABCBank/bin/Debug/TestABCBank.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestABCBank.TestABCBank, TestABCBank, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestToCheckIftwoAccountsGenerateDifferentAccountNumber" />
+    </UnitTest>
+    <UnitTest name="TestUserShouldNotBeAbleToWithdrawAmountBeyondPreviousBalanceFromAccount" storage="c:\documents and settings\administrator\my documents\visual studio 2010\projects\abcbank\testabcbank\testabcbank\bin\debug\testabcbank.dll" id="ef1a20ca-3287-da58-98a3-914047588bce">
+      <Execution id="113f865a-0472-4455-bb39-c8402284a968" />
+      <TestMethod codeBase="C:/Documents and Settings/Administrator/My Documents/Visual Studio 2010/Projects/ABCBank/TestABCBank/TestABCBank/bin/Debug/TestABCBank.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestABCBank.TestABCBank, TestABCBank, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestUserShouldNotBeAbleToWithdrawAmountBeyondPreviousBalanceFromAccount" />
+    </UnitTest>
+    <UnitTest name="TestUserShouldBeAbleToWithdrawAmountFromAccount" storage="c:\documents and settings\administrator\my documents\visual studio 2010\projects\abcbank\testabcbank\testabcbank\bin\debug\testabcbank.dll" id="eea61b94-a41c-8532-c3ee-0fbb1654ba0e">
+      <Execution id="49219ac7-3753-4485-b621-805b21af2b5d" />
+      <TestMethod codeBase="C:/Documents and Settings/Administrator/My Documents/Visual Studio 2010/Projects/ABCBank/TestABCBank/TestABCBank/bin/Debug/TestABCBank.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestABCBank.TestABCBank, TestABCBank, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestUserShouldBeAbleToWithdrawAmountFromAccount" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="17f50587-19d8-dde3-bd5b-cb76306ace24" executionId="e0ae65fd-3a17-42de-9da6-e1f33d4c366c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b91fa616-0ff2-9a17-40a2-80c6140b954d" executionId="b6fa0862-8ebb-44e6-8385-e800db2ec633" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d7e26e5b-78cf-862a-100a-09453089ead9" executionId="17cd4478-e93d-4452-a507-dbea468573f6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d3e09995-aead-78fe-6fa0-62b939aa76e3" executionId="48467670-db7e-487c-9bb2-c828d9cd6834" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d6226520-4bdb-a246-f9a4-888a484bf2c8" executionId="8547c374-0fe4-4b7b-b2a7-6bc8f4302510" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="eea61b94-a41c-8532-c3ee-0fbb1654ba0e" executionId="49219ac7-3753-4485-b621-805b21af2b5d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ef1a20ca-3287-da58-98a3-914047588bce" executionId="113f865a-0472-4455-bb39-c8402284a968" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="e0ae65fd-3a17-42de-9da6-e1f33d4c366c" testId="17f50587-19d8-dde3-bd5b-cb76306ace24" testName="TestShouldBeAbleToOpenSavingsAccountForAUser" computerName="MANJUNATH" duration="00:00:00.0217081" startTime="2011-03-07T17:49:03.1718750+05:30" endTime="2011-03-07T17:49:03.5312500+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e0ae65fd-3a17-42de-9da6-e1f33d4c366c">
+    </UnitTestResult>
+    <UnitTestResult executionId="b6fa0862-8ebb-44e6-8385-e800db2ec633" testId="b91fa616-0ff2-9a17-40a2-80c6140b954d" testName="TestToCheckIftwoAccountsGenerateDifferentAccountNumber" computerName="MANJUNATH" duration="00:00:00.0004453" startTime="2011-03-07T17:49:03.5468750+05:30" endTime="2011-03-07T17:49:03.5468750+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b6fa0862-8ebb-44e6-8385-e800db2ec633">
+    </UnitTestResult>
+    <UnitTestResult executionId="17cd4478-e93d-4452-a507-dbea468573f6" testId="d7e26e5b-78cf-862a-100a-09453089ead9" testName="TestShouldBeAbleToOpenCurrentAccountForAUser" computerName="MANJUNATH" duration="00:00:00.0004015" startTime="2011-03-07T17:49:03.5468750+05:30" endTime="2011-03-07T17:49:03.5625000+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="17cd4478-e93d-4452-a507-dbea468573f6">
+    </UnitTestResult>
+    <UnitTestResult executionId="48467670-db7e-487c-9bb2-c828d9cd6834" testId="d3e09995-aead-78fe-6fa0-62b939aa76e3" testName="TestShouldBeAbleToOpenAccountForAUser" computerName="MANJUNATH" duration="00:00:00.0003745" startTime="2011-03-07T17:49:03.5625000+05:30" endTime="2011-03-07T17:49:03.5781250+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="48467670-db7e-487c-9bb2-c828d9cd6834">
+    </UnitTestResult>
+    <UnitTestResult executionId="8547c374-0fe4-4b7b-b2a7-6bc8f4302510" testId="d6226520-4bdb-a246-f9a4-888a484bf2c8" testName="TestUserShouldBeAbleToDepositAmounttoAccount" computerName="MANJUNATH" duration="00:00:00.0012332" startTime="2011-03-07T17:49:03.5781250+05:30" endTime="2011-03-07T17:49:03.5937500+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8547c374-0fe4-4b7b-b2a7-6bc8f4302510">
+    </UnitTestResult>
+    <UnitTestResult executionId="49219ac7-3753-4485-b621-805b21af2b5d" testId="eea61b94-a41c-8532-c3ee-0fbb1654ba0e" testName="TestUserShouldBeAbleToWithdrawAmountFromAccount" computerName="MANJUNATH" duration="00:00:00.0005573" startTime="2011-03-07T17:49:03.5937500+05:30" endTime="2011-03-07T17:49:03.6093750+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="49219ac7-3753-4485-b621-805b21af2b5d">
+    </UnitTestResult>
+    <UnitTestResult executionId="113f865a-0472-4455-bb39-c8402284a968" testId="ef1a20ca-3287-da58-98a3-914047588bce" testName="TestUserShouldNotBeAbleToWithdrawAmountBeyondPreviousBalanceFromAccount" computerName="MANJUNATH" duration="00:00:00.0238807" startTime="2011-03-07T17:49:03.6093750+05:30" endTime="2011-03-07T17:49:03.6562500+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="113f865a-0472-4455-bb39-c8402284a968">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. </Message>
+          <StackTrace>   at TestABCBank.TestABCBank.TestUserShouldNotBeAbleToWithdrawAmountBeyondPreviousBalanceFromAccount() in C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\ABCBank\TestABCBank\TestABCBank\TestABCBank.cs:line 105
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
